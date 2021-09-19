@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Fenix">
         <activity
+            android:name=".ListPOI_Activity"
+            android:exported="true"
+            android:label="@string/title_activity_list_poi"
+            android:theme="@style/Theme.Fenix.NoActionBar" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
