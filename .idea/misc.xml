@@ -5,6 +5,20 @@
       <map>
         <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/Fenix/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.11203703703703703" />
         <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/Fenix/app/src/main/res/layout/activity_main.xml" value="0.3484375" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/activity_list_of_points.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/activity_list_poi.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/activity_lista_puntos.xml" value="0.16894630192502533" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/activity_main.xml" value="0.1953125" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/activity_poi_list.xml" value="0.33" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/card_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/content_list_poi.xml" value="0.33" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/fragment_first.xml" value="0.1953125" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/fragment_second.xml" value="0.75" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/item_poilist.xml" value="0.1757852077001013" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/item_point.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/punto.xml" value="0.203125" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/punto_item.xml" value="0.1757852077001013" />
+        <entry key="..\:/Users/Felipe/OneDrive/Personal/CursoProgramacionMovil/MisionTIC_DesarrolloMovil/app/src/main/res/layout/recycler_lista_puntos.xml" value="0.1757852077001013" />
         <entry key="..\:/Users/FelipeRamirez/OneDrive/Personal/CursoProgramacionMovil/Fenix/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
         <entry key="..\:/Users/FelipeRamirez/OneDrive/Personal/CursoProgramacionMovil/Fenix/app/src/main/res/layout/content_list_poi.xml" value="0.2006340579710145" />
       </map>

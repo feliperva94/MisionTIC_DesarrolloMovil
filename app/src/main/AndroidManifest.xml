@@ -10,10 +10,29 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Fenix">
         <activity
-            android:name=".ListPOI_Activity"
-            android:exported="true"
-            android:label="@string/title_activity_list_poi"
-            android:theme="@style/Theme.Fenix.NoActionBar" />
+            android:name=".RecyclerPuntos"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ListaPuntos"
+            android:exported="true" />
+        <activity
+            android:name=".ListOfPoints"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".POI_List"
+            android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
