@@ -35,7 +35,7 @@
             android:layout_toEndOf="@id/item_image"
             android:layout_toRightOf="@id/item_image"
             android:layout_alignParentTop="true"
-            android:textSize="30dp" />
+            android:textSize="20dp" />
 
         <TextView
             android:id="@+id/item_detail"
@@ -49,15 +49,15 @@
             android:textStyle="bold" />
 
         <TextView
+            android:id="@+id/item_score"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_below="@id/item_detail"
+            android:layout_toEndOf="@id/item_image"
+            android:layout_toRightOf="@id/item_image"
             android:text="Puntaje"
             android:textColor="@color/white"
-            android:id="@+id/item_score"
-            android:textStyle="bold"
-            android:layout_toEndOf="@id/item_detail"
-            android:layout_toRightOf="@id/item_image"
-            android:layout_below="@id/item_detail" />
+            android:textStyle="bold" />
 
     </RelativeLayout>
 

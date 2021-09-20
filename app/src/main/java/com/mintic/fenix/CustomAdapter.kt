@@ -38,7 +38,7 @@ class CustomAdapter: RecyclerView.Adapter<CustomAdapter.ViewHolder>(){
         viewHolder.itemTitle.text = titles[i]
         viewHolder.itemDetail.text = details[i]
         viewHolder.itemImage.setImageResource(images[i])
-        viewHolder.itemScore.text = scores[i]
+        viewHolder.itemScore.text = "Puntaje: " + scores[i]
     }
 
     override fun getItemCount(): Int{
