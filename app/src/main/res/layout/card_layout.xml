@@ -38,15 +38,26 @@
             android:textSize="30dp" />
 
         <TextView
+            android:id="@+id/item_detail"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Description"
-            android:textColor="@color/white"
-            android:id="@+id/item_detail"
-            android:textStyle="bold"
+            android:layout_below="@id/item_title"
             android:layout_toEndOf="@id/item_image"
             android:layout_toRightOf="@id/item_image"
-            android:layout_below="@id/item_title"/>
+            android:text="Description"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Puntaje"
+            android:textColor="@color/white"
+            android:id="@+id/item_score"
+            android:textStyle="bold"
+            android:layout_toEndOf="@id/item_detail"
+            android:layout_toRightOf="@id/item_image"
+            android:layout_below="@id/item_detail" />
 
     </RelativeLayout>
 
