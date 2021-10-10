@@ -1,9 +1,8 @@
-[
-  {
-    "name": "Pueblito Paisa",
-    "description": "Descripción pueblito paisa",
-    "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3c\/Pueblito_Paisa-Fuente_Iglesia.JPG\/800px-Pueblito_Paisa-Fuente_Iglesia.JPG",
-    "score": "4.8"
+{
+ "name": "Pueblito Paisa",
+  "description": "Descripción pueblito paisa",
+  "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3c\/Pueblito_Paisa-Fuente_Iglesia.JPG\/800px-Pueblito_Paisa-Fuente_Iglesia.JPG",
+  "score": "4.8"
   },
   {
     "name": "Pies Descalzos",
@@ -11,4 +10,4 @@
     "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3c\/Pueblito_Paisa-Fuente_Iglesia.JPG\/800px-Pueblito_Paisa-Fuente_Iglesia.JPG",
     "score": "4.8"
   }
-]
+}
